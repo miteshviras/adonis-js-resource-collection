@@ -1,4 +1,4 @@
-import User from 'App/Models/User';
+import User from 'App/Models/User'; //import any lucid model for typecasting
 
 export default class UserResource {
     /************************/
